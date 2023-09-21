@@ -1,4 +1,5 @@
 #  Credit Risk Classification Challenge
+![image](https://github.com/AnaTipps/credit-risk-classification/assets/131827518/f8bec967-a7ec-4a61-8457-c32844ac5492)
 
 ## Background
 In this Challenge, various techniques to train and evaluate a model based on loan risk were used. A dataset of historical lending activity from a peer-to-peer lending services company was used to build a model that can identify the creditworthiness of borrowers.
