@@ -1,4 +1,5 @@
-# Module 20 Report Template
+# Module 20 Report
+![image](https://github.com/AnaTipps/credit-risk-classification/assets/131827518/238dbc95-4420-459d-b870-8be2c114812f)
 
 ## Overview of the Analysis
 
